@@ -25,3 +25,7 @@ Beginner to Advanced Level Coding
               2. T3- Imp_ Identifier, data_types.pdf
               3. T3- PYTHON PRINT STATEMENT TASK.pdf
               4. T3- Operator.py
+
+3 March'25 - List Data Structure
+             1. List introduction.ipynb
+             2. T5- Python Basic & Python Operator.ipynb
