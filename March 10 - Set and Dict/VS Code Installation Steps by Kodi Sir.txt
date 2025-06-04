@@ -1,0 +1,26 @@
+---
+steps to instal vs code -->
+---
+1- google - vscode - download the software & install the software
+
+2- start - open vscode application
+
+3- systm cmd - check your path location
+
+4- manually -- c:drive and reach to path location -- create folder (vscode project)
+
+5- extension -->
+        github copilot
+        python debugger
+        arepl for python
+        autodocstring
+        coderunner
+        intellicode
+        jupyter
+        llm-vscode
+        markdownlint
+        officeviewer
+        pdfviwer
+        python
+        pylance
+        python image preview
