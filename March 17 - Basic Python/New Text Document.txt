@@ -1,0 +1,6 @@
+Command Prompt Folder Change-
+
+C:\Users\user>cd..
+C:\Users>cd ..
+C:\>D:
+D:\>cd \foldername
